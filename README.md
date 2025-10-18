@@ -19,5 +19,5 @@ I am currently studying web programming.
 ```
 
 ## I use
-- Linux/Ubuntu/PopOS
+- Linux
 - Gnome
