@@ -12,7 +12,7 @@ I am currently dev web.
 ```python
 [
     "Package Management", "Content Management", "System Configuration",
-    "Django", "HTTP", "REST", "*Linux", "Docker", "Podman", "NGinx",
+    "Odoo", "Django", "HTTP", "REST", "*Linux", "Docker", "Podman", "NGinx",
     "Postgres", "SQL", "Ansible", "Apache",
 ]
 
