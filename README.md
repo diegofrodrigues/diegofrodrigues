@@ -1,6 +1,6 @@
 ## Hi, I’m Diego Fereira
 
-I am currently studying web programming.
+I am currently dev web.
 
 ## Programming Languages
 - Python
@@ -20,4 +20,5 @@ I am currently studying web programming.
 
 ## I use
 - Linux
+- Debian
 - Gnome
